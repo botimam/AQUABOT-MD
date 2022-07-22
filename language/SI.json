@@ -1,9 +1,9 @@
 {
     "LANGUAGE": "English",
     "LANGCODE": "en",
-    "AUTHOR"  : "sanuwa official",
+    "AUTHOR"  : "SUMI ALPHA",
     "STRINGS" : { 
-                  "aqua" : {   
+                  "sumi" : {   
                             "COMMAND"  : "විධානය",
                             "DESC"     : "විස්තරය",
                             "EXAMPLE"  : "උදා",
